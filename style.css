@@ -21,7 +21,7 @@ html,body{
     align-items: center;
     justify-content: space-between;
     padding: 0 4vw;
-    /* border-bottom: 2px solid gray; */
+    border-bottom: 2px solid gray;
 }
 .nav-2{
     display: flex;
