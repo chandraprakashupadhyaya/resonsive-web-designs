@@ -233,7 +233,9 @@ button {
     }
 
     .box-1, .box-2, .box-3 {
-        width: 80%;
+        width: 70%;
+        margin-top: 8%;
+        margin-bottom: 8%;
     }
 
     .main {
